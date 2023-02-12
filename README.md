@@ -1,6 +1,6 @@
-#ANN-implementation
+# ANN-implementation
 
-## important commands ---------------
+## important commands
 
 ### creating envs -
 
